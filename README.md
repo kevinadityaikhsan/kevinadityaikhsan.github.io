@@ -3,7 +3,8 @@
 #### Technical Skills: SQL, Python, Data Analysis, Machine Learning, Business Intelligence, Tableau, TensorFlow, Google Cloud Platform
 
 ## Education 			        		
-- Bachelor of Psychology | Universitas Islam Negeri Sultan Syarif Kasim Riau (_09/2018 - 08/2022_)
+- Bachelor of Psychology
+- Universitas Islam Negeri Sultan Syarif Kasim Riau (_09/2018 - 08/2022_)
 - GPA: 3.68, attended bilingual classes.
 - Presenter at the International Psychology & Education Symposium 2022. 
 
