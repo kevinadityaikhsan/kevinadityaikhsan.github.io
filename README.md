@@ -11,6 +11,7 @@ Presenter at the International Psychology & Education Symposium 2022.
 ### [E-commerce Churn Prediction](https://github.com/kevinadityaikhsan/e-commerce-churn-prediction)
 ### [Transjakarta Data Analysis](https://github.com/kevinadityaikhsan/transjakarta-data-analysis)
 ### [Album Store CRUD](https://github.com/kevinadityaikhsan/album-store-crud)
+Description: This Python project demonstrates my proficiency in developing command-line applications with practical features. I built an album store application using Python and the tabulate module, implementing CRUD (Create, Read, Update, Delete) functionality for managing album inventory. Additionally, I integrated a shopping cart feature, allowing users to browse, add albums to their cart, and simulate the purchasing process. This project showcases my ability to create user-friendly interfaces and implement core functionalities for real-world applications.
 ### [Rock Paper Scissor Classification](https://www.kaggle.com/code/kevinadityaikhsan/cnn-model-of-rock-paper-scissor)
 
 ## Articles
