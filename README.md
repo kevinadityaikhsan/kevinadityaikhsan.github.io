@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: SQL, Python, Data Analysis, Machine Learning, Business Intelligence, Tableau, TensorFlow, Google Cloud Platform
+#### Technical Skills: SQL, Python, Data Analysis, Artifical Inteligence (ML, DL, and NLP), Business Intelligence, Tableau, Google Cloud Platform
 
 ## Education 			        		
 - Bachelor of Psychology
