@@ -19,10 +19,6 @@ This project involved sentiment analysis and text classification of YouTube comm
 Data-driven approach to address customer churn for Treepedia, an e-commerce company facing high churn rates. The project involved developing and optimizing an XGBoost machine learning model to predict customer churn. The final model achieved 93% accuracy and resulted in a significant 31.3% increase in profit compared to a no-model scenario. Highlighted key factors influencing churn, such as tenure, complaints, and warehouse-to-home distance. The insights gained from this project empower Treepedia to implement targeted retention strategies, improve customer satisfaction, and ultimately boost profitability.
 ### [Transjakarta Data Analysis](https://github.com/kevinadityaikhsan/transjakarta-data-analysis)
 Data analysis project focuses on optimizing the Transjakarta Bus Rapid Transit (BRT) system in Jakarta to improve efficiency, resource allocation, and customer satisfaction. By leveraging historical ridership data, identified peak demand patterns, analyzed passenger demographics, and explored route optimization strategies. The insights gained from this analysis informed recommendations for enhancing Transjakarta's service delivery.
-### [Album Store CRUD](https://github.com/kevinadityaikhsan/album-store-crud)
-Developing command-line applications with practical features. Built an album store application using Python and the tabulate module, implementing CRUD (Create, Read, Update, Delete) functionality for managing album inventory. Additionally, Integrated a shopping cart feature, allowing users to browse, add albums to their cart, and simulate the purchasing process. This project showcases my ability to create user-friendly interfaces and implement core functionalities for real-world applications.
-### [Rock Paper Scissor Classification](https://www.kaggle.com/code/kevinadityaikhsan/cnn-model-of-rock-paper-scissor)
-Developed an artificial neural network (ANN) model using TensorFlow to recognize hand gestures representing rock, paper, or scissors. The model leverages a Convolutional Neural Network (CNN) to extract relevant features from hand images and accurately classify them.
 
 ## Articles
 ### [Deploying Llama 3.1 on Google Cloud Platform](https://medium.com/@kevinadityaikhsan15/deploying-llama-3-1-on-google-cloud-platform-abe802fc1631)
@@ -47,7 +43,8 @@ Parametric and non-parametric statistical tests are distinguished by their under
 Empirical testing in Python reveals a significant difference in element access speed among various nested data structures. Lists within lists exhibit the fastest performance, whereas lists containing dictionaries prove the least efficient. Prudent selection of data structures based on anticipated access patterns optimizes code execution time and overall efficiency. 
 
 ## Courses
-### [Belajar Pengembangan Machine Learning - Dicoding]()
+### [Data Engineering Professional Certificate - DeepLearning.AI]()
+### [Belajar Pengembangan Machine Learning - Dicoding](https://www.dicoding.com/certificates/98XWLDOQ9ZM3)
 ### [Machine Learning Specialization - DeepLearning.AI]()
 ### [Mathematics for Machine Learning and Data Science Specialization - DeepLearning.AI]()
 ### [Belajar Machine Learning untuk Pemula - Dicoding](https://www.dicoding.com/certificates/GRX5QJO0VZ0M)
