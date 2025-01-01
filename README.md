@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: SQL, Python, Data Analysis, Artifical Inteligence (ML, DL, and NLP), Business Intelligence, Tableau, Google Cloud Platform
+#### Technical Skills: SQL, Python, Data Analysis, Artifical Inteligence (ML, DL, and NLP), AWS, GPC, Business Intelligence, Tableau, Psychometrics
 
 ## Education 			        		
 - Bachelor of Psychology
@@ -9,6 +9,10 @@
 - Presenter at the International Psychology & Education Symposium 2022. 
 
 ## Projects
+### [E-commerce Recommendation System](https://github.com/kevinadityaikhsan/ecommerce-recommendation-system)
+E-commerce recommendation system built using the Brazilian E-Commerce Public Dataset by Olist. The approaches used include content-based filtering with TF-IDF and cosine similarity, as well as collaborative filtering with SVD. The collaborative filtering model achieved an RMSE of 0.86.
+### [Telemarketing Predictive Analytics](https://github.com/kevinadityaikhsan/telemarketing-predictive-analytics)
+Telemarketing Predictive Analytics using the Bank Marketing Campaigns Dataset from Kaggle. The project predicts the likelihood of a successful long-term deposit subscription in telemarketing campaigns. Logistic Regression, with a regularization strength of 0.001, L1 penalty, and liblinear solver, achieved a recall score of 0.7169.
 ### [Tomato Leaf Disease Classification](https://github.com/kevinadityaikhsan/tomato_leaf_disease_classification)
 A lightweight and accurate image classification model for early disease detection in tomato crops. Emphasizing both efficiency and performance, the model leverages transfer learning with EfficientNetB0 and data augmentation to achieve a remarkable 97.43% accuracy on a diverse dataset encompassing 10 disease classes and healthy leaves. Streamlined Docker deployment using TensorFlow Serving facilitates seamless integration into various platforms, empowering growers and agricultural professionals with a valuable tool for proactive crop management and yield optimization.
 ### [Olist Customers Segmentation](https://github.com/PurwadhikaDev/JaguarGroup_DTI_01_FinalProject)
@@ -42,12 +46,13 @@ Parametric and non-parametric statistical tests are distinguished by their under
 
 Empirical testing in Python reveals a significant difference in element access speed among various nested data structures. Lists within lists exhibit the fastest performance, whereas lists containing dictionaries prove the least efficient. Prudent selection of data structures based on anticipated access patterns optimizes code execution time and overall efficiency. 
 
+## Certifications
+### [Data Analyst,](https://www.datacamp.com/certificate/DAA0018144638315) [Data Scientist,](https://www.datacamp.com/certificate/DSA0015780097775) [and Data Engineer Associate - Datacamp](https://www.datacamp.com/certificate/DEA0011123395156)
+### [Data Engineering Professional Certificate - DeepLearning.AI](https://www.coursera.org/account/accomplishments/specialization/AHS29QQY5KWM)
+
 ## Courses
-### [Data Engineering Professional Certificate - DeepLearning.AI]()
-### [Belajar Pengembangan Machine Learning - Dicoding](https://www.dicoding.com/certificates/98XWLDOQ9ZM3)
-### [Machine Learning Specialization - DeepLearning.AI]()
-### [Mathematics for Machine Learning and Data Science Specialization - DeepLearning.AI]()
-### [Belajar Machine Learning untuk Pemula - Dicoding](https://www.dicoding.com/certificates/GRX5QJO0VZ0M)
-### [Google Business Intelligence Specialization - Google](https://www.coursera.org/account/accomplishments/specialization/8KJX5W8V2V7U)
-### [Google Advanced Data Analytics Specialization - Google](https://www.coursera.org/account/accomplishments/specialization/VCJGK8XC2LKX)
-### [Data Analytics Specialization - Google](https://www.coursera.org/account/accomplishments/specialization/65YPCUBSY8SJ)
+### [Applied Machine Learning – Dicoding](https://www.dicoding.com/certificates/EYX4J4VL5ZDL)
+### [DevOps Fundamentals - Dicoding](https://www.dicoding.com/certificates/JMZV4K8KJXN9)
+### [Business Intelligence Specialization - Google](https://www.coursera.org/account/accomplishments/specialization/8KJX5W8V2V7U)
+### [Advanced Data Analytics Specialization - Google](https://www.coursera.org/account/accomplishments/specialization/VCJGK8XC2LKX)
+### [Generative AI for Software Development Skill Certificate - DeepLearning.AI](https://www.coursera.org/account/accomplishments/specialization/B6ZMEJUZUOBG)
