@@ -1,6 +1,14 @@
-# Data Scientist
+# Data Analyst | Data Scientist | Machine Learning Engineer
 
-#### Technical Skills: SQL, Python, Data Analysis, Artifical Inteligence (ML, DL, and NLP), AWS, GPC, Business Intelligence, Tableau, Psychometrics
+#### Technical Skills: 
+- Python
+- SQL (MySQL, PostgreSQL)
+- Data Analysis
+- Artifical Inteligence (ML, DL, and NLP)
+- DevOps and MLOps Engineering
+- Cloud Computing (AWS, GPC, Azure)
+- Business Intelligence (Tableau)
+- Psychometrics
 
 ## Education 			        		
 - Bachelor of Psychology
@@ -10,15 +18,15 @@
 
 ## Projects
 ### [E-commerce Recommendation System](https://github.com/kevinadityaikhsan/ecommerce-recommendation-system)
-E-commerce recommendation system built using the Brazilian E-Commerce Public Dataset by Olist. The approaches used include content-based filtering with TF-IDF and cosine similarity, as well as collaborative filtering with SVD. The collaborative filtering model achieved an RMSE of 0.86.
-### [Telemarketing Predictive Analytics](https://github.com/kevinadityaikhsan/telemarketing-predictive-analytics)
-Telemarketing Predictive Analytics using the Bank Marketing Campaigns Dataset from Kaggle. The project predicts the likelihood of a successful long-term deposit subscription in telemarketing campaigns. Logistic Regression, with a regularization strength of 0.001, L1 penalty, and liblinear solver, achieved a recall score of 0.7169.
+E-commerce recommendation system built using the Brazilian E-Commerce Public Dataset by Olist from Kaggle. The approaches used include content-based filtering with TF-IDF and cosine similarity, as well as collaborative filtering with SVD. The collaborative filtering model achieved an RMSE of 0.86.
+### [Bank Telemarketing Predictive Analytics](https://github.com/kevinadityaikhsan/bank-telemarketing-predictive-analytics)
+Bank Telemarketing Predictive Analytics using the Bank Marketing Campaigns Dataset from Kaggle. The project predicts the likelihood of a successful long-term deposit subscription in telemarketing campaigns. Logistic Regression, with a regularization strength of 0.001, L1 penalty, and liblinear solver, achieved a recall score of 0.7169.
 ### [Tomato Leaf Disease Classification](https://github.com/kevinadityaikhsan/tomato_leaf_disease_classification)
-A lightweight and accurate image classification model for early disease detection in tomato crops. Emphasizing both efficiency and performance, the model leverages transfer learning with EfficientNetB0 and data augmentation to achieve a remarkable 97.43% accuracy on a diverse dataset encompassing 10 disease classes and healthy leaves. Streamlined Docker deployment using TensorFlow Serving facilitates seamless integration into various platforms, empowering growers and agricultural professionals with a valuable tool for proactive crop management and yield optimization.
+Tomato Leaf Disease Image Classification using the Tomato Leaves Dataset from Kaggle. Developed a lightweight model using EfficientNetB0 and data augmentation to identify 10 disease classes and healthy leaves. Achieved 97.91% validation accuracy and 97.43% test accuracy. Deployed using TensorFlow Serving with Docker for real-time predictions.
+### [YouTube Comments Sentiment Analysis and Text Classification](https://github.com/kevinadityaikhsan/youtube-comments-sentiment-analysis-and-text-classification)
+YouTube Comments Sentiment Analysis and Text Classification from Ruangguru’s Clash of Champions. This project involves sentiment analysis and building a text classification model to categorize YouTube comments as negative, neutral, or positive. The Word Embedding model with a Global Average Pooling Layer and Dense Layer achieved 93.8% accuracy.
 ### [Olist Customers Segmentation](https://github.com/PurwadhikaDev/JaguarGroup_DTI_01_FinalProject)
 Conducted an in-depth customer segmentation analysis for Olist, utilizing LRFM analysis and K-means clustering. The analysis identified four distinct customer segments, each with unique characteristics and purchasing behaviors: New Customers characterized by low engagement across all metrics; Hibernating Customers with a long history but recent inactivity; Champions representing a small but high-value segment with active engagement and high transaction value; and Potential Loyalists demonstrating moderate engagement across all metrics, indicating potential for increased loyalty. The study concluded by proposing tailored marketing strategies for each segment, aiming to enhance customer engagement, foster loyalty, and drive sustained growth for Olist.
-### [Sentiment Analysis and Classification of ruangguru's Clash of Champions YouTube Comments](https://github.com/kevinadityaikhsan/ruangguru-sentiment-analysis-classification)
-This project involved sentiment analysis and text classification of YouTube comments from ruangguru's Clash of Champions. The best performing model achieved 93.8% accuracy and demonstrated the potential for automated comment analysis and sentiment identification. While there is room for improvement in addressing class imbalance and enhancing preprocessing, the project successfully showcases a valuable tool for understanding audience engagement. Additionally, testing on new comments from episode 4 yielded a 93.6% accuracy, suggesting strong generalization capabilities.
 ### [E-commerce Churn Prediction](https://github.com/kevinadityaikhsan/e-commerce-churn-prediction)
 Data-driven approach to address customer churn for Treepedia, an e-commerce company facing high churn rates. The project involved developing and optimizing an XGBoost machine learning model to predict customer churn. The final model achieved 93% accuracy and resulted in a significant 31.3% increase in profit compared to a no-model scenario. Highlighted key factors influencing churn, such as tenure, complaints, and warehouse-to-home distance. The insights gained from this project empower Treepedia to implement targeted retention strategies, improve customer satisfaction, and ultimately boost profitability.
 ### [Transjakarta Data Analysis](https://github.com/kevinadityaikhsan/transjakarta-data-analysis)
