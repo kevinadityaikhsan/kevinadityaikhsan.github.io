@@ -1,6 +1,6 @@
 # Data Analyst | Data Scientist | Machine Learning Engineer
 
-#### Technical Skills: 
+## Technical Skills
 - Python
 - SQL (MySQL, PostgreSQL)
 - Data Analysis
