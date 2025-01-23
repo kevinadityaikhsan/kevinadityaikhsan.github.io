@@ -1,4 +1,4 @@
-Pekanbaru, Riau | [+6282283451957](https://wa.me/82283451957) | kevinadityaikhsan15@gmail.com | [LinkedIn](https://www.linkedin.com/in/kevinadityaikhsan/) | [GitHub](https://github.com/kevinadityaikhsan) | [Portfolio](https://kevinadityaikhsan.github.io/)
+Pekanbaru, Riau | [+6282283451957](https://wa.me/82283451957) | kevinadityaikhsan15@gmail.com | [LinkedIn](https://www.linkedin.com/in/kevinadityaikhsan/)
 
 ## Projects
 ### [Indonesian Sentiment Analysis](https://github.com/kevinadityaikhsan/indonesian-sentiment-analysis)
